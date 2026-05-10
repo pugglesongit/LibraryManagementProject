@@ -1,0 +1,14 @@
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\bin\Debug\net10.0\LibraryManagementProject.exe
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\bin\Debug\net10.0\LibraryManagementProject.deps.json
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\bin\Debug\net10.0\LibraryManagementProject.runtimeconfig.json
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\bin\Debug\net10.0\LibraryManagementProject.dll
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\bin\Debug\net10.0\LibraryManagementProject.pdb
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.AssemblyInfoInputs.cache
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.AssemblyInfo.cs
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.dll
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\refint\LibraryManagementProject.dll
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.pdb
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\LibraryManagementProject.genruntimeconfig.cache
+C:\Users\reeve\Documents\Back-End Development course\Visual Studio Code projects\C#\Library Management Project\LibraryManagementProject\obj\Debug\net10.0\ref\LibraryManagementProject.dll

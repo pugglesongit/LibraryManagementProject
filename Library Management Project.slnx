@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ExampleCodes/Learningthings/Learningthings.csproj" />
+  <Project Path="LibraryManagementProject/LibraryManagementProject.csproj" />
+</Solution>
