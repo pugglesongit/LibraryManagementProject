@@ -1,0 +1,3 @@
+The final code for the first project I completed on my course. Please note, this course does say to use Co-pilot. While Co-pilot was used for the initial creation (as per course instructions) all other changes, like variables, logic changes, additional options etc were added by me. This code show cases what I
+have learnt at that particular time. It has helper methods for the yes no options (For example, if you type YES, it will accept that as a valid option) as well as a helper method for counting, book searching and removing. This will run on console only, so there is no external database and closing the program will
+remove all data.
